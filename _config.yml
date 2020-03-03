@@ -4,17 +4,16 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Francisco Melo
-title: Your job title
+title: MSc Finalist at Instituto Superior Técnico
 email: francisco.raposo.melo@tecnico.ulisboa.pt
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+phone: +351914035897
+
 
 darkmode: true
 
 # Social links
 twitter_username: jekyllrb
 github_username:  franciscormelo
-stackoverflow_username: "00000001"
 instagram_username: jekyll
 linkedin_username: jekyll
 
