@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Accenture
+  link: https://www.accenture.com/pt-pt
+  job_title: Summer Intern
+  dates: July 2019 - August 2020
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Developed an RPA for an internal project using Blue Prism software and VBA.
