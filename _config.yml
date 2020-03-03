@@ -12,17 +12,17 @@ phone: +351914035897
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
+twitter_username: raposofrancisco
 github_username:  franciscormelo
-instagram_username: jekyll
-linkedin_username: jekyll
+instagram_username: franciscormelo
+linkedin_username: franciscomelo97
 
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
