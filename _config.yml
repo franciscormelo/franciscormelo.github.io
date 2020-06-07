@@ -74,6 +74,10 @@ more_content: | # this will include new lines to allow paragraphs
 
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
+  <figure>
+  <img src="soca.jpeg" alt="Soca" style="width:100%">
+  <figcaption>Soca River, Slovenia.</figcaption>
+</figure>
 # Footer
 footer_show_references: true
 
