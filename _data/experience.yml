@@ -7,7 +7,8 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    Developed an RPA for an internal project using Blue Prism software and VBA.
+    - Learned how to develop RPA solution using Blue Prism.
+    - Developed an RPA for an internal project using Blue Prism software and VBA.
 # Experience template
 - layout: left
   company: EDA RENOVÁVEIS
@@ -17,5 +18,5 @@
   quote: >
 
   description: | # this will include new lines to allow paragraphs
-    Understood the working principles of an electrical grid and renewable energy production on Azores islands.
-    Developed a study for a new hydroelectric power station. 
+    - Understood the working principles of an electrical grid and renewable energy production on Azores islands.
+    - Developed a study for a new hydroelectric power station. 
