@@ -5,7 +5,7 @@
   job_title: Summer Intern
   dates: July 2019 - August 2020
   quote: >
-   Short description of the company (optional)
+
   description: | # this will include new lines to allow paragraphs
     Developed an RPA for an internal project using Blue Prism software and VBA.
 # Experience template
@@ -15,7 +15,7 @@
   job_title: Summer Intern
   dates: August 2017 - September 2017
   quote: >
-   Short description of the company (optional)
+
   description: | # this will include new lines to allow paragraphs
     Understood the working principles of an electrical grid and renewable energy production on Azores islands.
     Developed a study for a new hydroelectric power station. 
