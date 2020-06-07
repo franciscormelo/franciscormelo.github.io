@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
+    - <a href="https://drive.google.com/file/d/1xyJNpE_YLUsaa1j7e7PND_iDfLH8THGX/view?usp=sharing">Updated CV</a>
     - Images
 
 # Projects Section
