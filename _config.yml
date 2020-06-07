@@ -77,7 +77,7 @@ more_content: | # this will include new lines to allow paragraphs
   <figure>
   <img src="soca.jpeg" alt="Soca" style="width:100%">
   <figcaption>Soca River, Slovenia.</figcaption>
-< </figure>
+  </figure>
 # Footer
 footer_show_references: true
 
