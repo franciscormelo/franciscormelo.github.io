@@ -39,6 +39,12 @@ instagram_username: franciscormelo
 about_profile_image: me.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am an MSc finalist at Instituto Superior Técnico, currently working on my master thesis in robotics. 
+  
+  |
+  Since I was a kid, I have been passionate about technology and how people interact with it. I had a dream that one day I could create technology that would impact the lives of people. To fulfill my dream, when I was 18, I decided to move from São Miguel Island to the mainland to start studying Electrical and Computer Engineering at Instituto Superior Técnico.
+  |
+  In the first three years of my academic time (BSc), I interacted and learned the fundamentals of multiple areas : Computers, Energy, Telecommunications, Electronics, and Systems, Decision, and Control. 
+  I became passionate about robots and how they interact with humans. During the last two years (MSc), I decided to specialize in the Systems, Decision, and Control area, where I also became very interested in machine learning, and image processing. 
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
