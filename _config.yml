@@ -38,7 +38,7 @@ instagram_username: franciscormelo
 # about_title: About Me (Use this to override about section title)
 about_profile_image: me.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am an <mark>MSc finalist</mark> at <mark>[Instituto Superior Técnico](https://tecnico.ulisboa.pt)</mark>, currently working on my master thesis in robotics. 
+  I am an <mark>MSc finalist</mark> at [Instituto Superior Técnico](https://tecnico.ulisboa.pt), currently working on my master thesis in robotics. 
   
   
   Since I was a kid, I have been passionate about technology and how people interact with it. I had a dream that one day I could create technology that would impact the lives of people. To fulfill my dream, when I was 18, I decided to move from São Miguel Island to the mainland to start studying Electrical and Computer Engineering at Instituto Superior Técnico.
