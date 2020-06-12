@@ -48,15 +48,11 @@ about_content: | # this will include new lines to allow paragraphs
   In the first three years of my academic time (BSc), I interacted and learned the fundamentals of multiple areas : Computers, Energy, Telecommunications, Electronics, and Systems, Decision, and Control. 
   I became passionate about robots and how they interact with humans. During the last two years (MSc), I decided to specialize in the Systems, Decision, and Control area, where I also became very interested in machine learning, and image processing. 
   
+  I am a fast learner, proactive, creative, independent, focused and hard worker. Eager to learn and discover new things.
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Download my updated CV:
+    - <a href="https://drive.google.com/file/d/1xyJNpE_YLUsaa1j7e7PND_iDfLH8THGX/view?usp=sharing">CV Francisco Melo</a>
 
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="https://drive.google.com/file/d/1xyJNpE_YLUsaa1j7e7PND_iDfLH8THGX/view?usp=sharing">Updated CV</a>
-    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
