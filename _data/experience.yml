@@ -1,5 +1,15 @@
 # Experience template
 - layout: left
+  company: Institute For Systems and Robotics - VisLab
+  link: https://welcome.isr.tecnico.ulisboa.pt
+  job_title: Master Thesis Student
+  dates: Februart 2020 - Ongoing
+  quote: >
+
+  description: | # this will include new lines to allow paragraphs
+    - Currently developing my Master thesis on the topic "Socially Re- active Navigation Models for Mobile Robots".
+# Experience template
+- layout: left
   company: Accenture
   link: https://www.accenture.com/pt-pt
   job_title: Summer Intern
